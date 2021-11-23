@@ -3,3 +3,9 @@
 /ApplicationTest/ApplicationTest.iml
 /ExoSpoon/*.iml
 .idea/
+
+.DS_Store
+
+ApplicationTestBase/.classpath
+
+ApplicationTestBase/.project
